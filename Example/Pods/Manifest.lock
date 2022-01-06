@@ -1,0 +1,27 @@
+PODS:
+  - ConsoliAds-Mediation-Adapter (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - ConsoliAds-Mediation-Adapter (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  ConsoliAds-Mediation-Adapter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ConsoliAds-Mediation-Adapter: b27353e416b19bb97783019660b1b9f2031b7d42
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: c9eeb27c5f55b2339abcaa59fec23c878b4d934f
+
+COCOAPODS: 1.11.2
