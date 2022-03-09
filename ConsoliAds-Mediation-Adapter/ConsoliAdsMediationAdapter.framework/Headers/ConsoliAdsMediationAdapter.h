@@ -13,7 +13,3 @@ FOUNDATION_EXPORT double ConsoliAdsMediationAdapterVersionNumber;
 
 //! Project version string for ConsoliAdsMediationAdapter.
 FOUNDATION_EXPORT const unsigned char ConsoliAdsMediationAdapterVersionString[];
-
-// In this header, you should import all the public headers of your framework using statements like #import <ConsoliAdsMediationAdapter/PublicHeader.h>
-
-
