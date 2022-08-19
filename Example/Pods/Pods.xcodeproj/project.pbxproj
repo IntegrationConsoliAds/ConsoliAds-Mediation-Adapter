@@ -626,6 +626,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MARKETING_VERSION = 13.0.0;
 				MODULEMAP_FILE = "Target Support Files/ConsoliAds-Mediation-Adapter/ConsoliAds-Mediation-Adapter.modulemap";
 				PRODUCT_MODULE_NAME = ConsoliAds_Mediation_Adapter;
 				PRODUCT_NAME = ConsoliAds_Mediation_Adapter;
@@ -799,6 +800,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
+				MARKETING_VERSION = 13.0.0;
 				MODULEMAP_FILE = "Target Support Files/ConsoliAds-Mediation-Adapter/ConsoliAds-Mediation-Adapter.modulemap";
 				PRODUCT_MODULE_NAME = ConsoliAds_Mediation_Adapter;
 				PRODUCT_NAME = ConsoliAds_Mediation_Adapter;
