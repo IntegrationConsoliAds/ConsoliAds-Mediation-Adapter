@@ -1,0 +1,6 @@
+framework module ConsoliAdsMediationAdapter {
+  umbrella header "ConsoliAdsMediationAdapter.h"
+
+  export *
+  module * { export * }
+}
