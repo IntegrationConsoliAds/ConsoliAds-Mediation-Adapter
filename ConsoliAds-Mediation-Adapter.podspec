@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ConsoliAds-Mediation-Adapter'
-  s.version          = '13.0.0'
+  s.version          = '13.0.1'
   s.summary          = 'This pod is used to get Ads for ConsoliAds after adding it in your Consoliads-Mediation pod project.'
 
 # This description is used to generate tags and improve search results.
@@ -31,9 +31,6 @@ Pod::Spec.new do |s|
 s.vendored_frameworks = 'ConsoliAds-Mediation-Adapter/ConsoliAdsMediationAdapter.xcframework'
 
 s.xcconfig = {"OTHER_LDFLAGS" => "-ObjC"}
-
-s.user_target_xcconfig = { 'ONLY_ACTIVE_ARCH' => 'YES', "MACH_O_TYPE" => "staticlib"}
-s.pod_target_xcconfig = { 'ONLY_ACTIVE_ARCH' => 'YES', "MACH_O_TYPE" => "staticlib"}
 s.static_framework = true
 
 end
