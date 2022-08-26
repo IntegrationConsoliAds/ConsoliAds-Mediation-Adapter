@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ConsoliAds-Mediation-Adapter'
-  s.version          = '13.0.1'
+  s.version          = '13.1.0'
   s.summary          = 'This pod is used to get Ads for ConsoliAds after adding it in your Consoliads-Mediation pod project.'
 
 # This description is used to generate tags and improve search results.

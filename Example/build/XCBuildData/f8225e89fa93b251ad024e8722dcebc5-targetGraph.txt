@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+ConsoliAds-Mediation-Adapter in Pods, no dependencies
+FBSnapshotTestCase in Pods, no dependencies
+Pods-ConsoliAds-Mediation-Adapter_Example in Pods, depends on:
+ConsoliAds-Mediation-Adapter in Pods (explicit)
+Pods-ConsoliAds-Mediation-Adapter_Tests in Pods, depends on:
+FBSnapshotTestCase in Pods (explicit)
+Pods-ConsoliAds-Mediation-Adapter_Example in Pods (explicit)
